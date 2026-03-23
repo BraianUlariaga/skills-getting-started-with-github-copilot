@@ -4,3 +4,4 @@ httpx
 watchfiles
 requests
 beautifulsoup4
+pytest
